@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Ecommerce mobile application using React Native 
 - 🌱 I’m currently learning React Native Animations
 - 💬 Ask me about React/ReactNative/Expo
-- 📫 How to reach me: https://twitter.com/itzthr 
+- 📫 How to reach me: [@itzthr](https://twitter.com/itzthr ) 
 - 😄 Pronouns: He/Him
 
 
