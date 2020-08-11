@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Ecommerce mobile application using React Native 
+- 🌱 I’m currently learning React Native Animations
+- 💬 Ask me about React/ReactNative/Expo
+- 📫 How to reach me: @itzthr 
+- 😄 Pronouns: He/Him
+
+
 <!--
 **tahirmq1/tahirmq1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
