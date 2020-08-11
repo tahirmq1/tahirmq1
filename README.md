@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋  My name is Mohammed Taher
 
-### My name is Mohammed Taher, I am a Software Engineer currently residing in Saudi Arabia
+I am a Software Engineer currently residing in Saudi Arabia
 
 - 🔭 I’m currently working on Ecommerce mobile application using React Native 
 - 🌱 I’m currently learning React Native Animations
@@ -8,7 +8,7 @@
 - 📫 How to reach me: [@itzthr](https://twitter.com/itzthr ) 
 - 😄 Pronouns: He/Him
 
-feel free to get in touch
+Feel free to get in touch...
 
 
 <!--
